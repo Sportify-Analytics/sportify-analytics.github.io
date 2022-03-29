@@ -1,5 +1,5 @@
 ---
-title: "Stats and Storylines: 2021 NFL Week 1"
+title: "2021 NFL Week 1"
 description: "Overreactions"
 author: tristan
 image: https://source.unsplash.com/featured?test
