@@ -1,7 +1,7 @@
-title: "elementary Blog"
-description: "We design and develop the fast, open, and privacy-respecting replacement for Windows and macOS"
+title: "Sportify Analytics"
+description: "Opinions that you didn't know you didn't need to hear"
 permalink: /:title/
-theme-color: "#64baff"
+theme-color: "#2F4454"
 gravatar: eaa3cc978770998ea2bd4382935bf0f4
 sponsor_inquiry: https://github.com/sponsors/elementary?frequency=one-time
 analytics: https://plausible.io/blog.elementary.io
@@ -12,9 +12,9 @@ reddit: elementaryos
 twitter: elementary
 
 authors:
-  aroman:
-    name: "Avi Romanoff"
-    description: "Enthusiasm Evangelist"
+  tristan:
+    name: "Tristan Ro"
+    description: "Founder"
   cassidyjames:
     name: Cassidy James Blaede
     description: "Co-founder & CXO"

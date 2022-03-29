@@ -1,7 +1,7 @@
 ---
 title: Sponsor Post
 description: Thank you to our sponsors
-author: cassidyjames
+author: tristan
 image: https://source.unsplash.com/featured?money
 tags:
   - meta
