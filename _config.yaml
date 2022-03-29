@@ -14,43 +14,27 @@ twitter: elementary
 authors:
   tristan:
     name: "Tristan Ro"
-    description: "Founder"
-  cassidyjames:
-    name: Cassidy James Blaede
-    description: "Co-founder & CXO"
+    description: "Founder & Head of NFL"
+  amanjit:
+    name: "Amanjit Dhadwar"
+    description: "Product Manager & Head of Footy"
     gravatar: 41275ecc8271aca852ce2c0ff72d2610 # Gravatar md5 hash
-  danrabbit:
-    name: Danielle Foré
-    description: "Founder & CEO"
+  john:
+    name: "John Costello"
+    description: "Editor & Head of NBA"
     gravatar: 1f3cc76b99b5d0dae8381a23f52ea96d
-  davidmhewitt:
-    name: David Hewitt
-    description: "Desktop Engineer"
+  cole:
+    name: "Cole Moorcroft"
+    description: "Head of NHL"
     gravatar: 80b17b7bacb372004600451a7eb40b35
-  joeysneddon:
-    name: Joey Sneddon
-    description: OMG! Ubuntu!
+  scott:
+    name: "Scott Gray"
+    description: "Content Creator"
     gravatar: 2623034032315d5cf0bcf5e213ff5547
-  karensophia:
-    name: Karen Sophia
-    description: "Customer Engagement"
+  nick:
+    name: "Nick Stratford"
+    description: "Copywriter & Content Creator"
     # gravatar: e0ac5d5e717da67a36ac72adf235bc42
-  kgrubb:
-    name: Keli Grubb
-    description: Developer
-    gravatar: 8e8d16d136c38f3a28820490c17928d1
-  linuxplusplus:
-    name: Eric Londo
-    description: "Editor of Linux++"
-    gravatar: e9c9929bf9d55d9d3642524e4bde3a2f
-  peteruithoven:
-    name: Peter Uithoven
-    description: "Front-end Developer"
-    gravatar: f39b1485b28be1dc2b98f269235218bc
-  the-linux-experiment:
-    name: Nick
-    description: "The Linux Experiment"
-    gravatar: 264a76e5b40f4bb39787f617b5164b34
   anonymous:
     name: "Unknown Author"
 
