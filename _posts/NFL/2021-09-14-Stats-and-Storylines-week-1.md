@@ -6,6 +6,7 @@ image: /images/NFL_Photos/NFL_Week1.png
 tags:
   - nfl
 ---
+
 <img src="/images/NFL_Photos/NFL_Week1.png" alt="2021 NFL Week 1">
 
 Sundays are back! What is usually the most depressing day of the week has been filled with nerves, excitement, or even more lows (if you are a Falcons fan like me). With all the action from the first week of the NFL, there is a lot that can be overlooked - so why not highlight the most important takeaways from week one. Here are a few stats and storylines that I found interesting. 
