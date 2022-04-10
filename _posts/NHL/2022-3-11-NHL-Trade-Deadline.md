@@ -3,8 +3,7 @@ title: "2022 NHL Trade Deadline"
 description: ""
 author: cole
 image: ""
-tags:
-  - NHL
+tags: NHL
 ---
 
 While the trade deadline is now extremely near (March 21), as always we’re still waiting to see how the big trades will turn out because they tend to be left to the final hours. This, of course, is partially due to the fact that every dollar in the NHL counts. Each day that a trade rental spends on their existing team is another day that their new team doesn’t have to count them against the cap. Similarly, for sellers, they want to make sure they wait as long as they can in order to bring in the most attractive offer possible. 
