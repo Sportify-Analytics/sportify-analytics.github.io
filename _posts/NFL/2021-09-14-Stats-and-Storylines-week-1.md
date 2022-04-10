@@ -55,3 +55,5 @@ I’ll be brief because it’s going to be a long season for the Atlanta Falcons
 The Eagles on the other hand looked sharp. New head coach Nick Sirriani and Jalen Hurts were all over the Falcons defense. Sirriani was scheming everyone open and Hurts delivered, posting an impressive 89.5 PFF grade which is tied for second with Jameis Winston behind only the GOAT Tom Brady. On his throws, 71% of them were to a receiver with at least 1 yard of separation. If Sirriani keeps putting Hurts in a position to succeed, this Eagles team could vastly outperform this season’s expectations. 
 
 That wraps up the interesting stats and storylines from Week 1. If I didn’t mention your team, I’m sorry or you’re welcome? I’m sure I’ll cover all 32 teams at some point this season, so stay tuned for more weekly NFL statisticas. 
+
+**References: nfl.com, PFF and theathletic*
