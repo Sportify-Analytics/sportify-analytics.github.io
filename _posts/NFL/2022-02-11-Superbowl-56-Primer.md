@@ -1,9 +1,7 @@
 ---
 title: "Superbowl 56 Primer"
 description: ""
-author: 
-- tristan 
-- amanjit
+author: tristan
 image: images/NFL_Photos/SuperBowl56.jpg
 tags: NFL
 ---
@@ -12,7 +10,7 @@ tags: NFL
 
 ## Writer Picks
 
-<img src="images/NFL_Photos/CIN@LAR.jpg" alt="Super Bowl picks">
+<img src="/images/NFL_Photos/CIN@LAR.jpg" alt="Super Bowl picks">
 
 ## Intro 
 *By Amanjit Dhadwar*
