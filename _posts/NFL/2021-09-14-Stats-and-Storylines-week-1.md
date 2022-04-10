@@ -4,7 +4,7 @@ description: "Overreactions"
 author: tristan
 image: /images/NFL_Photos/NFL_Week1.png
 tags:
-  - nfl
+  - NFL
 ---
 
 <img src="/images/NFL_Photos/NFL_Week1.png" alt="2021 NFL Week 1">

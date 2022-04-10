@@ -1,10 +1,10 @@
 ---
 title: "2022 NHL Trade Deadline"
-description: 
+description: ""
 author: cole
-image: /
+image: ""
 tags:
-  - nhl
+  - NHL
 ---
 
 While the trade deadline is now extremely near (March 21), as always we’re still waiting to see how the big trades will turn out because they tend to be left to the final hours. This, of course, is partially due to the fact that every dollar in the NHL counts. Each day that a trade rental spends on their existing team is another day that their new team doesn’t have to count them against the cap. Similarly, for sellers, they want to make sure they wait as long as they can in order to bring in the most attractive offer possible. 
@@ -15,7 +15,7 @@ So far, the biggest deal we’ve seen was the one that sent Tyler Toffoli to Cal
 
 ### Ben Chiarot
 Personal feelings about this player aside, this one is the absolute biggest lock of them all. Montreal is dying to lose more games, and Chiarot is a good player on an expiring contract. The asking price is going to be high here, but once Monday rolls around, Montreal will take whatever the best offer is. Chiarot is affordable at $3.5 million and Montreal will obviously not be concerned if they have to retain half of that money for the rest of this year. He’s also a player who’s built for playoff hockey (aka he’s a big defensemen who loves nothing more than cross-checking people without having to worry about consequences), which he proved while logging over 25(!!) minutes per night in Montreal’s cup finals run last spring. The Panthers would be a good match here because they’re the team who should be the most concerned about being hard to play against, given that they’ll likely have to play Tampa in the second round. On the flip side, I could see Tampa making a sneaky play for him as well.
-*Update: since this article was written, Florida actually did trade for Chiarot
+**Update: since this article was written, Florida actually did trade for Chiarot*
 
 ### Claude Giroux
 It feels strange to be putting a veteran player with a no-move clause who has only ever played for one team on this list, but Claude Giroux should run from the hellfire that is the Flyers right now and not look back. There are a few things to consider here. Giroux is 34 and has never won a cup, but he still produces at a high level, creating a trifecta of reasons why he might want to leave. Also, Philadelphia is already down their next two second-round picks due to previous trades, so they could use the draft capital. Finally, the Flyers have big extensions for Joel Farabee and Sean Couturier kicking in next season, and no other big contracts coming off the books now that they’ve re-signed Rasmus Ristolainen. This means that something’s gotta give, and all signs point to Giroux. Due to his full no-move clause, Giroux has the ability to veto any trades and I’ve only seen him linked to first-place Colorado, who are presumably an attractive option for him. Given that the Avalanche just cleared out some cap room by trading Tyson Jost, I see no reason why they wouldn’t be the best fit. 
@@ -31,7 +31,7 @@ I’ve put Fleury last here despite him being one of the most interesting player
 
 ## Teams:
 
-*I’m locking in Giroux to Colorado right now so I won’t even include them just to be sporting
+**I’m locking in Giroux to Colorado right now so I won’t even include them just to be sporting*
 
 ### Toronto Maple Leafs
 No sense burying the lede. The Leafs are in win-now mode and absolutely, 100% do not have a complete enough team to beat both Tampa and Florida in the playoffs, which they will almost certainly have to do. After being burned by the Nick Foligno trade last year, Kyle Dubas will not want to give up a first-rounder, and he’s likely not prepared to part with Rasmus Sandin, Timothy Liljegren or Nick Roberston, so let’s discuss what’s left. In my opinion, what the Leafs have to offer/want to offer is Petr Mrazek, Justin Holl and a handful of second-round picks. Bearing in mind that neither Holl nor Mrazek hold any value at all, that may mean that the Leafs are forced to play small-ball. If they trade for a defenseman I see that being a bigger deal, but at the end of the day they may have to hope that a healthy Jake Muzzin shores up the back end and settle for some goalie depth. Surely it wouldn’t take too much to pry 40-year-old Craig Anderson out of Buffalo, would it?
