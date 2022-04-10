@@ -2,7 +2,7 @@
 title: "2021 NFL Week 1"
 description: "Overreactions"
 author: tristan
-image: https://source.unsplash.com/featured?test
+image: /images/NFL_Photos/NFL_Week1.png
 tags:
   - nfl
 ---
