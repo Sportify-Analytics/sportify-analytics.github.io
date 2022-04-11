@@ -2,11 +2,11 @@
 title: "NBA 4th Quarter Storylines"
 description: ""
 author: john
-image: "/images/NBA_Photos/NBAFourth QuarterStorylines.jpg"
+image: "/images/NBA_Photos/NBAFourthQuarterStorylines.jpg"
 tags: NBA
 ---
 
-<img src="/images/NBA_Photos/NBAFourth QuarterStorylines.jpg" alt="NBA Q4 Stats">
+<img src="/images/NBA_Photos/NBAFourthQuarterStorylines.jpg" alt="NBA Q4 Stats">
 
 We’re into the final quarter of the season. There’s been enough time to see how the teams look post trade deadline and how they’re playing heading into the playoffs. Here are some of the highlights of what to look for in the closing stretch of games this season…
 

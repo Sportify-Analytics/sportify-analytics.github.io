@@ -2,7 +2,7 @@
 title: "Superbowl 56 Primer"
 description: ""
 author: tristan
-image: images/NFL_Photos/SuperBowl56.jpg
+image: /images/NFL_Photos/SuperBowl56.jpg
 tags: NFL
 ---
 
