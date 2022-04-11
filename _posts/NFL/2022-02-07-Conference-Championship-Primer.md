@@ -1,6 +1,6 @@
 ---
-title: "2021 NFL Week 1"
-description: "Overreactions"
+title: "Conference Championship Primer"
+description: "2021 NFL Postseason"
 author: nfl
 image: /images/NFL_Photos/ConferenceChampionship.jpg
 tags: NFL

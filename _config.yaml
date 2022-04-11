@@ -36,8 +36,8 @@ authors:
     description: "Copywriter & Content Creator"
     # gravatar: e0ac5d5e717da67a36ac72adf235bc42
   nfl:
-  name: "NFL Team"
-  description: "Amanjit, Cole, John, Scott, Tristan"
+    name: "NFL Team"
+    description: "Amanjit, Cole, John, Scott, Tristan"
   anonymous:
     name: "Unknown Author"
 
