@@ -11,7 +11,7 @@ tags: NFL
 As we approach the NFL Honors, we at Sportify reflected on the standouts from a tumultuous NFL season. We’ve got the usual suspects, with MVP, OPOY, DPOY, and COTY among others, but also wanted to show some love for the best coordinators in the league as well. Without further ado, here are our picks for the 2021 NFL Honors.
 
 ## MVP
-<table>
+<table class="center">
   <tr>
     <th>Amanjit</th>
     <th>Cole</th>
