@@ -10,7 +10,8 @@ tags: NFL
 
 As we approach the NFL Honors, we at Sportify reflected on the standouts from a tumultuous NFL season. We’ve got the usual suspects, with MVP, OPOY, DPOY, and COTY among others, but also wanted to show some love for the best coordinators in the league as well. Without further ado, here are our picks for the 2021 NFL Honors.
 
-## MVP
+<center> <h2>MVP</h2> </center>
+
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -25,7 +26,6 @@ As we approach the NFL Honors, we at Sportify reflected on the standouts from a 
     <td> Aaron Rodgers </td>
   </tr>
 </table>
-
 
 Tom Brady: This isn’t breaking news, but Tom Brady is really good at quarterback. In his 22nd season he threw for 5316 YDS, 43 TDs and 12 INTs (in 17 games). Tom Brady threw 40 TDs twice after turning 42 (this year being his second year doing so at 44 y.o.), he threw for 40 TDs once in his 20 years before that. He had great weapons all season, but in classic TB12 fashion still targeted seven different receivers over 50 times. His retirement makes this bittersweet, and no one should have any problems with him winning the MVP this season if he does - it wouldn’t be a career achievement award. Tom Brady was one of the best players in the league this year at 44 years old. He’s looked better since coming to Tampa than he did the last few years in New England, and this season won’t just be one of the best seasons any athlete has had over the age of 40. Brady turned in arguably one of the top 3 seasons of his GOAT career, and he’s the best quarterback of ALL TIME.  He’s not the betting odds favorite to win MVP, <a href="https://en.wikipedia.org/wiki/Super_Bowl_LI">but stranger things have happened</a>. Getting shut out in week one by the Saints was bizarre, even if they also got Aaron Rodgers to produce his worst week of the year. It was the most Brady was sacked all year, and in my opinion 44 years old is too old to be hit by an NFL lineman - even if you don’t eat strawberries. Tom Brady carried a beleaguered Patriots franchise into a two-decades-consuming empire, alongside the GOAT coach Belichick. Then in 2021 he moved somewhere with awesome weather, but devoid of NFL relevance since 2003… When the billboard hot 100’s top five songs looked like this:
 
