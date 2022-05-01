@@ -10,11 +10,11 @@ tags: NFL
 
 After a wildcard weekend full of blowouts, the divisional round should prove to be much more competitive and entertaining. Last week two writers picked perfectly, but that is guaranteed to change after this weekend. Here are the current scores: 
 
-Scott: 9-1
-Amanjit: 7-3
-John: 6-4
-Tristan: 6-4
-Cole: 4-6
+Scott: 9-1 <br>
+Amanjit: 7-3 <br>
+John: 6-4 <br>
+Tristan: 6-4 <br>
+Cole: 4-6 <br>
 
 Here are our picks for the conference championship round, along with some detailed analysis of each matchup. 
 

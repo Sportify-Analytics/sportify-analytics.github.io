@@ -8,6 +8,7 @@ tags: NFL
 
 <img src="/images/NFL_Photos/Wildcard.jpg" alt="Wildcard Round">
 
+The first weekend of playoff football is finally here! We here at Sportify give our weekly playoff picks as well as some stats and analysis for the upcoming matchups this weekend
 
 ## Las Vegas Raiders (5) at Cincinnati Bengals (4)
 *By: John*
