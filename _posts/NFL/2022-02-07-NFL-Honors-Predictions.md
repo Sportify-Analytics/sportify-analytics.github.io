@@ -11,7 +11,7 @@ tags: NFL
 As we approach the NFL Honors, we at Sportify reflected on the standouts from a tumultuous NFL season. We’ve got the usual suspects, with MVP, OPOY, DPOY, and COTY among others, but also wanted to show some love for the best coordinators in the league as well. Without further ado, here are our picks for the 2021 NFL Honors.
 
 <center> <h2>Most Valuable Player</h2> </center>
-
+<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -87,7 +87,7 @@ The advanced stats are where Watt may not be a clear winner. His 21.4% pass-rush
 *By: Tristan*
 
 <center> <h2>Comeback Player of the Year</h2> </center>
-
+<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -108,7 +108,7 @@ Returning to the field after suffering an injury like Joe Burrow’s torn ACL an
 *By: Cole*
 
 <center> <h2>Offensive Rookie of the Year</h2> </center>
-
+<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -129,7 +129,7 @@ This one is a runaway. The 81 catches, 1455 yards and 13 TDs that Ja’Marr Chas
 *By: Amanjit*
 
 <center> <h2>Defensive Rookie of the Year</h2> </center>
-
+<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -150,7 +150,7 @@ Similar to the previous award, our votes for defensive rookie of the year are un
 *By: Tristan*
 
 <center> <h2>Coach of the Year</h2> </center>
-
+<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -171,7 +171,7 @@ Mike Vrabel’s coaching performance this year has been amazing, with injuries t
 *By: Amanjit*
 
 <center> <h2>Coordinator of the Year</h2> </center>
-
+<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
