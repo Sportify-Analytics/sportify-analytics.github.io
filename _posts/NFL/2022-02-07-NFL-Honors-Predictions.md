@@ -12,7 +12,6 @@ As we approach the NFL Honors, we at Sportify reflected on the standouts from a 
 
 <center> <h2>Most Valuable Player</h2> </center>
 
-<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -27,7 +26,6 @@ As we approach the NFL Honors, we at Sportify reflected on the standouts from a 
     <td> Aaron Rodgers </td>
   </tr>
 </table>
-<br>
 
 <center> <h3>Tom Brady</h3> </center>
 
@@ -46,7 +44,6 @@ After a season full of off the field nonsense, cancel culture strikes again in t
 
 <center> <h2>Offensive Player of the Year</h2> </center>
 
-<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -61,7 +58,6 @@ After a season full of off the field nonsense, cancel culture strikes again in t
     <td> Cooper Kupp </td>
   </tr>
 </table>
-<br>
 
 Despite several receivers having very impressive seasons, Cooper Kupp dusted the field in every relevant category. His incredible 145 receptions, 1947 yards, and 16 TDs were all good enough for first among receivers, and it wasn’t close (he had over 300 yards more than anyone else). Although he had an extra game to do it, Kupp became the first person to come close to breaking Calvin Johnson’s single-season yards record? As for how he did this, the name of the game for Kupp was consistency - only once this season did he finish with less than 90 receiving yards. No other player on offense had as remarkable a statistical season as him, with Jonathan Taylor being the only other non-QB in the conversation. 
 
@@ -69,7 +65,6 @@ Despite several receivers having very impressive seasons, Cooper Kupp dusted the
 
 <center> <h2>Defensive Player of the Year</h2> </center>
 
-<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -84,7 +79,6 @@ Despite several receivers having very impressive seasons, Cooper Kupp dusted the
     <td> TJ Watt </td>
   </tr>
 </table>
-<br>
 
 TJ Watt was my mid-season vote and he rewarded me by tying the all-time sack record (22.5) in one less game. Watt is a game-wrecker. It’s as simple as that. His presence commands respect on every snap and this was reflected in his yearly stats: 64 tackles, 63 pressures, 22.5 sacks, 21 tackles for loss, 39 QB hits, 7 defended passes, 5 forced fumbles, and 3 fumble recoveries. An absurd resume that ticks all the boxes for the DPOY 
 
@@ -94,7 +88,6 @@ The advanced stats are where Watt may not be a clear winner. His 21.4% pass-rush
 
 <center> <h2>Comeback Player of the Year</h2> </center>
 
-<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -109,7 +102,6 @@ The advanced stats are where Watt may not be a clear winner. His 21.4% pass-rush
     <td> Joe Burrow </td>
   </tr>
 </table>
-<br>
 
 Returning to the field after suffering an injury like Joe Burrow’s torn ACL and MCL last year is impressive enough, but leading your team to it’s first division title since 2015 and to the SuperBowl is sensational. Burrow’s poise is well beyond that of most second year QBs, and his performances this season, especially towards the tail end with the division title on the line have been brilliant. He threw for 525 yards and four touchdowns to beat the Ravens in week 17, and followed up with another four touchdowns and 446 more yards against the Chiefs to clinch the AFC North title. He finished the year sixth in yards and with a completion percentage of over 70%, gaudy numbers for someone playing behind DVOA's 31st ranked offensive line. As far as comebacks go… Not bad.
 
@@ -117,7 +109,6 @@ Returning to the field after suffering an injury like Joe Burrow’s torn ACL an
 
 <center> <h2>Offensive Rookie of the Year</h2> </center>
 
-<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -132,7 +123,6 @@ Returning to the field after suffering an injury like Joe Burrow’s torn ACL an
     <td> Ja'Marr Chase </td>
   </tr>
 </table>
-<br>
 
 This one is a runaway. The 81 catches, 1455 yards and 13 TDs that Ja’Marr Chase put up this season are not likely to be matched anytime soon. Chase broke Justin Jefferson’s rookie receiving yards record just one year after it was set, finishing fourth in the league in yards among all pass-catchers, and third in receiving touchdowns. Whenever Joe Burrow needed a hero, Chase came through, prompting Burrow to admit to seeing the memes that portrayed him saying “F it, Ja’Marr is out there somewhere.” This was never more evident than Week 17 against the Chiefs, when Chase put up 11/266/3 to power the Bengals to victory with the AFC North title on the line. Mac Jones will be the only other person to garner consideration for this award, but his stats are pedestrian compared to Chase’s.
 
@@ -140,7 +130,6 @@ This one is a runaway. The 81 catches, 1455 yards and 13 TDs that Ja’Marr Chas
 
 <center> <h2>Defensive Rookie of the Year</h2> </center>
 
-<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -155,7 +144,6 @@ This one is a runaway. The 81 catches, 1455 yards and 13 TDs that Ja’Marr Chas
     <td> Micah Parsons </td>
   </tr>
 </table>
-<br>
 
 Similar to the previous award, our votes for defensive rookie of the year are unanimous. The Cowboys’ Micah Parsons was easily the most impactful defensive rookie and wasn’t far off from getting a DPOY vote. As a swiss-army knife, Parsons played both off-ball linebacker as well as edge. He recorded 84 tackles, 20 tackles for loss and 3 forced fumbles, but where he shined was as a pass rusher. Parsons ranked first in pressures (among rookies) with 57, and recorded 12 sacks despite having a double-team rate just over 20%. His play-speed and raw athleticism was on display every snap and his ability to play multiple positions had an enormous impact on the Dallas defense, who finished the year 2nd in defensive DVOA. 
 
@@ -163,7 +151,6 @@ Similar to the previous award, our votes for defensive rookie of the year are un
 
 <center> <h2>Coach of the Year</h2> </center>
 
-<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -178,7 +165,6 @@ Similar to the previous award, our votes for defensive rookie of the year are un
     <td> Mike Vrabel </td>
   </tr>
 </table>
-<br>
 
 Mike Vrabel’s coaching performance this year has been amazing, with injuries to key players on both sides of the ball, including losing star RB Derrick Henry halfway through the season. Vrabel was able to coach the Titans to the number one seed in the AFC, which is remarkable considering they set an NFL record with 91 players on the active roster this year. No other coach in the league was able to maximize their playing talent and find ways to win like Vrabel did this year, and we at Sportify have voted him as our unanimous pick for coach of the year.
 
@@ -186,7 +172,6 @@ Mike Vrabel’s coaching performance this year has been amazing, with injuries t
 
 <center> <h2>Coordinator of the Year</h2> </center>
 
-<br>
 <table class = "center" style = "width: 50%">
   <tr>
     <th>Amanjit</th>
@@ -201,7 +186,6 @@ Mike Vrabel’s coaching performance this year has been amazing, with injuries t
     <td> Demeco Ryans </td>
   </tr>
 </table>
-<br>
 
 <center> <h3>Demeco Ryans</h3> </center>
 
