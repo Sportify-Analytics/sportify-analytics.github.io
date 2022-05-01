@@ -8,7 +8,7 @@ tags: NFL
 
 <img src="/images/NFL_Photos/ConferenceChampionship.jpg" alt="Conference Championship">
 
-Last week was the best football I’ve ever seen. Four games whose outcomes we decided on the final play, is absurd and I still don’t think we’ve fully processed the Bills vs. Chiefs game. While it’ll be hard to top the entertainment value of last week, the conference championships should prove to be thrillers of their own. Here are the pick totals for each writer, shoutout Scott who has only missed on one pick. 
+After a wildcard weekend full of blowouts, the divisional round should prove to be much more competitive and entertaining. Last week two writers picked perfectly, but that is guaranteed to change after this weekend. Here are the current scores: 
 
 Scott: 9-1
 Amanjit: 7-3
