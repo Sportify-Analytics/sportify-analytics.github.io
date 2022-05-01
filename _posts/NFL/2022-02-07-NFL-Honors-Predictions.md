@@ -195,10 +195,10 @@ Mike Vrabel’s coaching performance this year has been amazing, with injuries t
     <th>Tristan</th>
   </tr>
   <tr>
-    <td> Micah Parsons </td>
-    <td> Micah Parsons </td>
-    <td> Micah Parsons </td>
-    <td> Micah Parsons </td>
+    <td> Leslie Fraizer </td>
+    <td> Leslie Fraizer </td>
+    <td> Demeco Ryans </td>
+    <td> Demeco Ryans </td>
   </tr>
 </table>
 <br>
