@@ -22,7 +22,7 @@ layout: uglify
                 {% assign author=site.authors[post.author]  %}
             {% endif %}
             {% if author.image %}
-                <img src="{{author.image}}" class="author-img">
+                <img src="{{author.image}}">
             {& endif %}
 
                 //"gravatar": "{{ author.gravatar }}",
