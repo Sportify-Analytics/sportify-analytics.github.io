@@ -21,8 +21,8 @@ layout: uglify
             {% if site.authors[post.author].name %}
                 {% assign author=site.authors[post.author]  %}
             {% endif %}
-            {% if author.gravatar %}
-                "gravatar": "{{ author.image }}",
+            {% if author.image %}
+                "image": "{{ author.image }}",
                 "name": "{{ author.name }}"
             {% else %}
                 "gravatar": "{{ site.gravatar }}",
