@@ -15,7 +15,7 @@ authors:
   tristan:
     name: "Tristan Ro"
     description: "Founder & Head of NFL"
-    image: images/logo_web.png
+    image: "/images/logo_web.png"
   amanjit:
     name: "Amanjit Dhadwar"
     description: "Product Manager & Head of Footy"
