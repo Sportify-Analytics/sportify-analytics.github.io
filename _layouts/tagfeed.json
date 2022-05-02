@@ -21,16 +21,13 @@ layout: uglify
             {% if site.authors[post.author].name %}
                 {% assign author=site.authors[post.author]  %}
             {% endif %}
-            {% if author.image %}
-                <img src="{{author.image}}">
-            {& endif %}
-
-                //"gravatar": "{{ author.gravatar }}",
-                //"name": "{{ author.name }}"
-            //{% else %}
-                //"gravatar": "{{ site.gravatar }}",
-                //"name": "elementary"
-            //{% endif %}
+            {% if author.gravatar %}
+                "gravatar": "{{ author.gravatar }}",
+                "name": "{{ author.name }}"
+            {% else %}
+                "gravatar": "{{ site.gravatar }}",
+                "name": "elementary"
+            {% endif %}
             },
             {% if post.image %}
                 {% assign prefix = post.image | slice: 0, 4 %}
