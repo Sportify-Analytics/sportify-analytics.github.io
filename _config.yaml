@@ -39,6 +39,9 @@ authors:
   nfl:
     name: "NFL Team"
     description: "Amanjit, Cole, John, Scott, Tristan"
+  ricardo:
+    name: "Ricardo Brites"
+    description: "Guest Author"
   anonymous:
     name: "Unknown Author"
 
