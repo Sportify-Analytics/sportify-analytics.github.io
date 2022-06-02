@@ -1,5 +1,5 @@
 ---
-title: "2022 NHL Playoff: Conference Finals Preview
+title: "2022 NHL Playoff: Conference Finals Preview"
 description: ""
 author: cole
 image: "/images/NHL_Photos/NHL-Playoff-Conference-Finals.jpg"
